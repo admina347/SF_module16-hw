@@ -1,0 +1,7 @@
+.vscode/*
+obj/
+bin/
+*.csproj
+*.json
+*.dll
+*.pdb
